@@ -1,2 +1,2 @@
 # Music-spotify-clone
-language used is HTML,CSS,JS
+language used is HTML,CSS,JAVASCRIPT
